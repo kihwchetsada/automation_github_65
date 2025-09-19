@@ -24,5 +24,5 @@ await page.goto('https://www.facebook.com/');
 });
 
 test('instagram', async ({ page }) => {
-await page.goto('https//www.instagram.com/');
+await page.goto('https://www.instagram.com/');
 });
